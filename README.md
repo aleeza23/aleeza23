@@ -7,11 +7,9 @@
 
 
 - 🌱 I’m currently learning **MERN**
-
+- 🔭 My recent project [React landing page](https://arch-landingpage.netlify.app/)
 - 📫 How to reach me **rubaab.dev@gmail.com**
-
 - 📄 Know about my experiences [https://rb.gy/y9mni](https://rb.gy/y9mni)
-
 - 🤪 Fun fact **Did you know that coding is just like solving a puzzle, except all the pieces are invisible, and you don't know what the puzzle is supposed to look like?** 😄 **And hey, if you have any funny coding jokes, don't hesitate to share them with me! 😂 I'm always up for a good laugh.**
   
 
