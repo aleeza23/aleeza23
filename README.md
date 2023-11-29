@@ -18,7 +18,10 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/aleeza_codes_/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Finstagram-circle-logo&psig=AOvVaw39qM7fljp5rUZ2VQKGYwH4&ust=1701320660005000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDSyr-36IIDFQAAAAAdAAAAABAE" alt="Instagram" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" height="30" width="30" />
+  </a>
+   <a href="https://web.facebook.com/profile.php?id=61553640455034" target="_blank">
+    <img src="https://assets.stickpng.com/images/584ac2d03ac3a570f94a666d.png" alt="Facebook" height="30" width="30" />
   </a>
 </p>
 
