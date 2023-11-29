@@ -21,7 +21,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" height="30" width="30" />
   </a>
    <a href="https://web.facebook.com/profile.php?id=61553640455034" target="_blank">
-    <img src="https://assets.stickpng.com/images/584ac2d03ac3a570f94a666d.png" alt="Facebook" height="30" width="30" />
+    <img src="https://www.freepnglogos.com/uploads/facebook-icons/facebook-icon-transparent-background-3.png" alt="Facebook" height="30" width="30" />
   </a>
 </p>
 
