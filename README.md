@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **MERN**
 - 🔭 My recent project [React Restaurant Website](https://alizaaa.netlify.app/)
 - 📫 How to reach me **rubaab.dev@gmail.com**
-- 🤪 Fun fact **Did you know that coding is just like solving a puzzle, except all the pieces are invisible, and you don't know what the puzzle is supposed to look like?** 😄 **And hey, if you have any funny coding jokes, don't hesitate to share them with me! 😂 I'm always up for a good laugh.**
+- 🤪 Fun fact **Did you know that coding is just like solving a puzzle, except all the pieces are invisible, and you don't know what the puzzle is supposed to look like?** 😄 
   
 
 <h3 align="left">Connect with me:</h3>
