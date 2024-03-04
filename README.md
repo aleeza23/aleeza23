@@ -72,7 +72,7 @@ Passionate about collaboration and teamwork, I thrive in environments where crea
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=aleeza23&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
-</p>
+
 
 <!-- # Github Contributions
 <h4 align="center">Isometric view of contributions in the last year.</h4>
