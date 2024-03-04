@@ -7,25 +7,61 @@ Passionate about collaboration and teamwork, I thrive in environments where crea
 
 
   
+<a href="https://linkedin.com/in/aleezarubab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/aleeza_codes_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://web.facebook.com/profile.php?id=61553640455034" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://discord.com/users/1099743332785209497" target="_blank"><img src="https://img.shields.io/badge/Discord-%231ED760.svg?&style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
 
 
 
 
-# Languages and Tools 🛠
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<h2><i>🛠 Languages and Tools</i></h2> 
+<p>
 
-# Connect with me 🤝🏻 
-<p align="left">
-  <a href="https://linkedin.com/in/aleezarubab" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/aleeza_codes_/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" height="30" width="30" />
-  </a>
-   <a href="https://web.facebook.com/profile.php?id=61553640455034" target="_blank">
-    <img src="https://www.freepnglogos.com/uploads/facebook-icons/facebook-icon-transparent-background-3.png" alt="Facebook" height="30" width="30" />
-  </a>
+
+
+<!-- html5 -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white' />
+
+<!-- css3 -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white' />
+
+<!-- javascript -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E' />
+
+<!-- Tailwind -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/TailwindCSS-1572B6?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white' />
+
+<!-- styledcomponents -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&amp;logo=styled-components&amp;logoColor=white' />
+
+<!-- bootstrap -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white' />
+
+<!-- react -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=redux&amp;logoColor=61DAFB' />
+
+<!-- redux -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/Redux-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB' />
+
+
+<!-- github -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white' />
+
+<!-- git -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white' />
+
+<!-- netlify -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white' />
+
+<!-- figma -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white' />
+
+
+
 </p>
+
+
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
