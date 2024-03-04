@@ -67,9 +67,9 @@ Passionate about collaboration and teamwork, I thrive in environments where crea
     <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aleeza23&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </div>
-
+<div align="center">
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=aleeza23&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-
+</div>
 
 
 ## I ❤ Open Source
