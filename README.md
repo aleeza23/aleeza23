@@ -58,7 +58,7 @@ Passionate about collaboration and teamwork, I thrive in environments where crea
 
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
-
+<p align="center">
 <p align="center">
 <a href="https://github.com/aleeza23">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aleeza23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -66,7 +66,7 @@ Passionate about collaboration and teamwork, I thrive in environments where crea
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=aleeza23&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
-
+</p>
 
 ## I ❤ Open Source
 
