@@ -59,7 +59,7 @@ Passionate about collaboration and teamwork, I thrive in environments where crea
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
-<p align="center">
+<p align="">
 <a href="https://github.com/aleeza23">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aleeza23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aleeza23&layout=compact&langs_count=8&theme=algolia"/>
