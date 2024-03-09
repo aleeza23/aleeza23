@@ -55,7 +55,9 @@ Passionate about collaboration and teamwork, I thrive in environments where crea
 <img width ='80px' height='25px' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white' />
 </p>
 
+<h2><i>🏆 GitHub Trophies</i></h2>
 
+![](https://github-profile-trophy.vercel.app/?username=aleeza23&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
@@ -70,6 +72,8 @@ Passionate about collaboration and teamwork, I thrive in environments where crea
 <div align="center">
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=aleeza23&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </div>
+
+
 
 
 ## I ❤ Open Source
