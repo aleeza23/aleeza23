@@ -1,6 +1,6 @@
 # 🚀 Aleeza Rubab
 
-**`Web Artisan (Developer/React/Python)`**
+**`Web Artisan (Developer/React/Python learner)`**
 
 Passionate about collaboration and teamwork, I thrive in environments where creative minds unite to build innovative solutions. Eager to join forces with like-minded individuals who share a passion for pushing boundaries and achieving excellence. Always open to discussing ideas and bringing them to life together.💻
 
