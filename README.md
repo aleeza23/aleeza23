@@ -52,7 +52,13 @@ Passionate about collaboration and teamwork, I thrive in environments where crea
 <img width ='80px' height='25px' src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white' />
 
 <!-- figma -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white' />
+<img width ='80px' height='25px' src='https://img.shields.io/badge/Figma-DB7093?style=for-the-badge&amp;logo=figma&amp;logoColor=white' />
+
+<!-- jupyter notebook -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/Jupyter notebook-F24E1E?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white' />
+
+<!-- jupyter notebook -->
+<img width ='80px' height='25px' src='https://img.shields.io/badge/Google colab-100000?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=' />
 </p>
 
 <h2><i>🏆 GitHub Trophies</i></h2>
