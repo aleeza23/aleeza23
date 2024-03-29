@@ -82,24 +82,7 @@ Passionate about collaboration and teamwork, I thrive in environments where crea
 
 
 
-## I ❤ Open Source
 
-_These are some of my noteworthy contribution projects._
 
-<table>
-<thead>
-  <tr>
-    <th>Project Name</th>   
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><a href="https://github.com/aleeza23/VoiceBooker" target="_blank" rel="noopener noreferrer">VoiceBooker</a></td>
-  
-  </tr>
-  <tr>
-    <td><a href="https://github.com/aleeza23/EcoFactory" target="_blank" rel="noopener noreferrer">EcoFactory</a></td>
-  </tr>
 
-</tbody>
-</table>
+
