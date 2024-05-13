@@ -61,9 +61,19 @@ Passionate about collaboration and teamwork, I thrive in environments where crea
 <img width ='80px' height='25px' src='https://img.shields.io/badge/Google colab-100000?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=' />
 </p>
 
+
+
 <h2><i>🏆 GitHub Trophies</i></h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=aleeza23&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+<h2><i>🔮 Leetcode Stats</i></h2>
+
+<div align="center">
+  
+  [![LeetCode Stats - Dark Theme](https://leetcard.jacoblin.cool/alyza23?theme=unicorn)](https://leetcode.com/u/alyza23/)
+  
+</div>
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
