@@ -9,7 +9,7 @@ Passionate about collaboration and teamwork, I thrive in environments where crea
   
 <a href="https://linkedin.com/in/aleezarubab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/aleeza_codes_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://web.facebook.com/profile.php?id=61553640455034" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://web.facebook.com/profile.php?id=61570431953298" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://discord.com/users/1099743332785209497" target="_blank"><img src="https://img.shields.io/badge/Discord-%231ED760.svg?&style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
 
 
