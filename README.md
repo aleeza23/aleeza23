@@ -30,7 +30,7 @@
 
 <br>
 
-## 👩‍💻 About Me
+## 👩‍💻 What I'm Working On
 
 ⚙️ Currently building [Blogging Website (MERN)](https://github.com/aleeza23/blogging-website-mern) — a full-stack blog platform with auth, posts & a REST API<br>
 🧠 Deepening my expertise in AI Engineering — Voice Agents, Conversational AI, LLM Integrations & Agentic Workflows<br>
