@@ -86,12 +86,6 @@
 
 ## ⚙️ GitHub Analytics
 
-> These stats and streak cards are live badges — they render on GitHub itself, not in every markdown preview, so they'll show correctly once this file is in your profile repo.
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=aleeza23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleeza23&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
-</div>
 
 <div align="center">
   <img width="90%" src="https://streak-stats.demolab.com/?user=aleeza23&theme=merko&hide_border=true" alt="GitHub Streak" />
