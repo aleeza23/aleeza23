@@ -103,4 +103,4 @@
 
 <br>
 
-<p align="center">💡 <i>Open to projects and collaborations in MERN stack development — feel free to reach out!</i></p>
+<p align="center">💡 <i>Open to projects and collaborations — feel free to reach out!</i></p>
