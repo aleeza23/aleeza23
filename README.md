@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleeza Rubab</h1>
-<h3 align="center">MERN Stack Developer | Building Custom Software & AI-Powered SaaS</h3>
+<h3 align="center">MERN Stack Developer | Building MVPs, Custom Software & SaaS Products with AI Integrations</h3>
 
 <p align="center">
   I build full-stack web applications and SaaS products end to end, from the database to the UI. I enjoy working with people who are curious, explore new ideas, and want to turn those ideas into something real. 💻
