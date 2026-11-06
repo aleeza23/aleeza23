@@ -34,9 +34,7 @@
 
 ⚙️ Currently building [AZ Blings E-commerce Store (MERN)](https://github.com/aleeza23/az-blings-ecom-store) — a full-stack e-commerce platform with product management, authentication, shopping cart, checkout & admin dashboard.<br>
 🧠 Deepening my expertise in AI Engineering — Voice Agents, Conversational AI, LLM Integrations & Agentic Workflows<br>
-🛠️ Ask me about: React, Next.js, Node.js, Express, MongoDB
 
-<br>
 
 ## 🛠 Languages & Tools
 
